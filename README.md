@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
