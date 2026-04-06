@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/ayush-6338/leetcode_repo/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayush-6338/leetcode_repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/ayush-6338/leetcode_repo/tree/master/2751-robot-collisions) |
 ## Matrix
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## Hash Table
+|  |
+| ------- |
+| [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
