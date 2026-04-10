@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Design
 |  |
 | ------- |
