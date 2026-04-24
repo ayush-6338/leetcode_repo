@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayush-6338/leetcode_repo/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-6338/leetcode_repo/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/ayush-6338/leetcode_repo/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
