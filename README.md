@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayush-6338/leetcode_repo/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-6338/leetcode_repo/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayush-6338/leetcode_repo/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayush-6338/leetcode_repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayush-6338/leetcode_repo/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/ayush-6338/leetcode_repo/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-6338/leetcode_repo/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -160,8 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
