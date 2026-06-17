@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/ayush-6338/leetcode_repo/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
