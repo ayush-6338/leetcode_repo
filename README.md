@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayush-6338/leetcode_repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-6338/leetcode_repo/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
