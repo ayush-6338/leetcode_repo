@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ayush-6338/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-6338/leetcode_repo/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-6338/leetcode_repo/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-6338/leetcode_repo/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ayush-6338/leetcode_repo/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ayush-6338/leetcode_repo/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayush-6338/leetcode_repo/tree/master/3225-maximum-score-from-grid-operations) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
