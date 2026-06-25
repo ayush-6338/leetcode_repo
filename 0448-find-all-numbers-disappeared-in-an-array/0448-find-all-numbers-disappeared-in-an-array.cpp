@@ -2,18 +2,25 @@ class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int,int> mp;
-        vector<int> ans;
-        for(int i = 1;i<=n;i++){
-            mp[i]=0;
+        int i = 0;
+        while(i < n){
+            if(nums[i] != i+1){
+                if(nums[i] == nums[nums[i]-1]) i++;
+                else swap(nums[i],nums[nums[i]-1]);
+            }
+            else{
+                i++;
+            }
         }
         for(int i : nums){
-            mp[i]++;
+            cout<<i<<' ';
         }
-        for(auto& i : mp){
-            if(i.second == 0) ans.push_back(i.first);
+        vector<int> ans;
+        for(int i = 1;i<=n;i++){
+            if(i!=nums[i-1]){
+                ans.push_back(i);
+            }
         }
-        mp.clear();
         return ans;
     }
 };
