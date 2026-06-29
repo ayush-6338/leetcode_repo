@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/ayush-6338/leetcode_repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayush-6338/leetcode_repo/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayush-6338/leetcode_repo/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
