@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ayush-6338/leetcode_repo/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ayush-6338/leetcode_repo/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
