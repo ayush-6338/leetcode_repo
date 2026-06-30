@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
+| [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ayush-6338/leetcode_repo/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayush-6338/leetcode_repo/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
+| [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ayush-6338/leetcode_repo/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayush-6338/leetcode_repo/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
+| [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ayush-6338/leetcode_repo/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayush-6338/leetcode_repo/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
