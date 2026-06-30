@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ayush-6338/leetcode_repo/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayush-6338/leetcode_repo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
