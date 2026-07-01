@@ -8,13 +8,28 @@ public:
         for(int i = 1;i<n;i++){
             nums[i] = nums[i]+nums[i-1];
         }
+        // 1 3 7 12  queries = 3 10 21
         for(int i = 0;i<m;i++){
-            int count = 0;
-            for(int j = 0;j<n;j++){
-                if(queries[i]<nums[j]) break;
-                count++;
+            int lo = 0;
+            int hi = n-1;
+            int mid;
+            bool flag= false;
+            while(lo<=hi){
+                mid = lo + (hi - lo)/2;
+                if(nums[mid]==queries[i]){
+                    flag = true;
+                    break;
+                }
+                else if(nums[mid]<queries[i]){
+                    lo = mid + 1;
+                }
+                else{
+                    hi = mid - 1;
+                }
             }
-            ans[i] = count;
+            if(!flag) ans[i] = hi+1;
+            else
+            ans[i] = mid+1;
         }
         
         return ans;
