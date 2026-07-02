@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-6338/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
