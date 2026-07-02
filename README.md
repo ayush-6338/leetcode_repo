@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-6338/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
