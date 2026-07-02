@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/ayush-6338/leetcode_repo/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
