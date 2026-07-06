@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-6338/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
