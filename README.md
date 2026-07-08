@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
