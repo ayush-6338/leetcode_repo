@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/ayush-6338/leetcode_repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [1052-grumpy-bookstore-owner](https://github.com/ayush-6338/leetcode_repo/tree/master/1052-grumpy-bookstore-owner) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 | [2069-walking-robot-simulation-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush-6338/leetcode_repo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayush-6338/leetcode_repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-6338/leetcode_repo/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
