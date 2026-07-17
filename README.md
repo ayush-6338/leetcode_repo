@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
