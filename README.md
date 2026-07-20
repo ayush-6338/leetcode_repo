@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
@@ -501,5 +503,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
