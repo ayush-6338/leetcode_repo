@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayush-6338/leetcode_repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [1052-grumpy-bookstore-owner](https://github.com/ayush-6338/leetcode_repo/tree/master/1052-grumpy-bookstore-owner) |
+| [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ayush-6338/leetcode_repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1914-cyclically-rotating-a-grid) |
