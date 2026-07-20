@@ -18,8 +18,15 @@ public:
         if(st.count(tar)== 1) return true;
 
         st.insert(root->val);
-        if(root->left) ans = ans || findTarget(root->left , k) ;
-        if(root->right) ans = ans || findTarget(root->right , k) ; 
+        if(root->left) {
+            if(ans) return ans;
+            ans = ans || findTarget(root->left , k) ;
+        }
+
+        if(root->right){
+            if(ans) return ans;
+            ans = ans || findTarget(root->right , k) ; 
+        } 
         
         return ans;
     }
