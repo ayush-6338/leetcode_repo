@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/ayush-6338/leetcode_repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ayush-6338/leetcode_repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/1288-remove-covered-intervals) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-6338/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/ayush-6338/leetcode_repo/tree/master/2540-minimum-common-value) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayush-6338/leetcode_repo/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayush-6338/leetcode_repo/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ayush-6338/leetcode_repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush-6338/leetcode_repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
