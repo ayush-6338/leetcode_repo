@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayush-6338/leetcode_repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ayush-6338/leetcode_repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-6338/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayush-6338/leetcode_repo/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ayush-6338/leetcode_repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
