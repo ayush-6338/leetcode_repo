@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayush-6338/leetcode_repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ayush-6338/leetcode_repo/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayush-6338/leetcode_repo/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ayush-6338/leetcode_repo/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
