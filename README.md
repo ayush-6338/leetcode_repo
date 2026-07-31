@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-6338/leetcode_repo/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ayush-6338/leetcode_repo/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/ayush-6338/leetcode_repo/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayush-6338/leetcode_repo/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/3536-maximum-product-of-two-digits) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/ayush-6338/leetcode_repo/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-6338/leetcode_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ayush-6338/leetcode_repo/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayush-6338/leetcode_repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3312-sorted-gcd-pair-queries) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayush-6338/leetcode_repo/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
