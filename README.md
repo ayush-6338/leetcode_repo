@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayush-6338/leetcode_repo/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-6338/leetcode_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayush-6338/leetcode_repo/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/ayush-6338/leetcode_repo/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-6338/leetcode_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-6338/leetcode_repo/tree/master/0713-subarray-product-less-than-k) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush-6338/leetcode_repo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayush-6338/leetcode_repo/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 ## Graph Theory
 |  |
 | ------- |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
