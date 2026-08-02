@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayush-6338/leetcode_repo/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-6338/leetcode_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayush-6338/leetcode_repo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ayush-6338/leetcode_repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ayush-6338/leetcode_repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
@@ -584,4 +587,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayush-6338/leetcode_repo/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
