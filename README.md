@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-6338/leetcode_repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayush-6338/leetcode_repo/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-6338/leetcode_repo/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-6338/leetcode_repo/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayush-6338/leetcode_repo/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-6338/leetcode_repo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayush-6338/leetcode_repo/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -643,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
