@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-6338/leetcode_repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-6338/leetcode_repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayush-6338/leetcode_repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-6338/leetcode_repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayush-6338/leetcode_repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-6338/leetcode_repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-6338/leetcode_repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
