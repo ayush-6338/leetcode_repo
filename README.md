@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/ayush-6338/leetcode_repo/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ayush-6338/leetcode_repo/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ayush-6338/leetcode_repo/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayush-6338/leetcode_repo/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ayush-6338/leetcode_repo/tree/master/2540-minimum-common-value) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ayush-6338/leetcode_repo/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/ayush-6338/leetcode_repo/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-6338/leetcode_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
