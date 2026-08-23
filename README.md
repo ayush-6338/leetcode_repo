@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush-6338/leetcode_repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-6338/leetcode_repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayush-6338/leetcode_repo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayush-6338/leetcode_repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-6338/leetcode_repo/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/ayush-6338/leetcode_repo/tree/master/1402-reducing-dishes) |
+| [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ayush-6338/leetcode_repo/tree/master/2126-destroying-asteroids) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
