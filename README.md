@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayush-6338/leetcode_repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ayush-6338/leetcode_repo/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayush-6338/leetcode_repo/tree/master/3225-maximum-score-from-grid-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayush-6338/leetcode_repo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayush-6338/leetcode_repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ayush-6338/leetcode_repo/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-6338/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-6338/leetcode_repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayush-6338/leetcode_repo/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-6338/leetcode_repo/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/ayush-6338/leetcode_repo/tree/master/2574-left-and-right-sum-differences) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayush-6338/leetcode_repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -661,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -668,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
