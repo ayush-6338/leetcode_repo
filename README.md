@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/ayush-6338/leetcode_repo/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/ayush-6338/leetcode_repo/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
