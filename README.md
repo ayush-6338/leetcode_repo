@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-6338/leetcode_repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush-6338/leetcode_repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
