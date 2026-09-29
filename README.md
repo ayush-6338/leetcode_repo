@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush-6338/leetcode_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/ayush-6338/leetcode_repo/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ayush-6338/leetcode_repo/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-6338/leetcode_repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush-6338/leetcode_repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ayush-6338/leetcode_repo/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-6338/leetcode_repo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ayush-6338/leetcode_repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-6338/leetcode_repo/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-6338/leetcode_repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayush-6338/leetcode_repo/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-6338/leetcode_repo/tree/master/2463-minimum-total-distance-traveled) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-6338/leetcode_repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayush-6338/leetcode_repo/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayush-6338/leetcode_repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -790,4 +793,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-6338/leetcode_repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
