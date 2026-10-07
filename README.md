@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayush-6338/leetcode_repo/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ayush-6338/leetcode_repo/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayush-6338/leetcode_repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ayush-6338/leetcode_repo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-6338/leetcode_repo/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
