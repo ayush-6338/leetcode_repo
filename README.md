@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayush-6338/leetcode_repo/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-6338/leetcode_repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-6338/leetcode_repo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -914,4 +916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/ayush-6338/leetcode_repo/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ayush-6338/leetcode_repo/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ayush-6338/leetcode_repo/tree/master/0183-customers-who-never-order) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
