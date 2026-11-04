@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/ayush-6338/leetcode_repo/tree/master/2409-count-days-spent-together) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/ayush-6338/leetcode_repo/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-6338/leetcode_repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-6338/leetcode_repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-6338/leetcode_repo/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ayush-6338/leetcode_repo/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/ayush-6338/leetcode_repo/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/ayush-6338/leetcode_repo/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-6338/leetcode_repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayush-6338/leetcode_repo/tree/master/3312-sorted-gcd-pair-queries) |
@@ -940,4 +943,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
