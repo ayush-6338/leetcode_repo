@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ayush-6338/leetcode_repo/tree/master/1340-jump-game-v) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ayush-6338/leetcode_repo/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1914-cyclically-rotating-a-grid) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-6338/leetcode_repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/ayush-6338/leetcode_repo/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-6338/leetcode_repo/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayush-6338/leetcode_repo/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-6338/leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/ayush-6338/leetcode_repo/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ayush-6338/leetcode_repo/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ayush-6338/leetcode_repo/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
