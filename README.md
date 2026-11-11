@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-6338/leetcode_repo/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ayush-6338/leetcode_repo/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayush-6338/leetcode_repo/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ayush-6338/leetcode_repo/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-6338/leetcode_repo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-6338/leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
