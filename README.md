@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayush-6338/leetcode_repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-6338/leetcode_repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-6338/leetcode_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ayush-6338/leetcode_repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ayush-6338/leetcode_repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-6338/leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-6338/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-6338/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ayush-6338/leetcode_repo/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ayush-6338/leetcode_repo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-6338/leetcode_repo/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/0075-sort-colors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -986,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush-6338/leetcode_repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
