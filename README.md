@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ayush-6338/leetcode_repo/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-6338/leetcode_repo/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-6338/leetcode_repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-6338/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ayush-6338/leetcode_repo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayush-6338/leetcode_repo/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-6338/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayush-6338/leetcode_repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayush-6338/leetcode_repo/tree/master/0268-missing-number) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-6338/leetcode_repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/ayush-6338/leetcode_repo/tree/master/2614-prime-in-diagonal) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-6338/leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayush-6338/leetcode_repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush-6338/leetcode_repo/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1013,14 +1017,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayush-6338/leetcode_repo/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ayush-6338/leetcode_repo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Bubble Sort
 |  |
